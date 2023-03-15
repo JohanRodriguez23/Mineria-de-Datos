@@ -1,0 +1,271 @@
+Tienda;Marca;Tipo;Genero;Talla;Color;Categoria;precio de venta S/;Dia;Mes;Año;Hora;Compra Efectiva?
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Azul;Ropa interior;2499;15;7;2015;7:33;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;42-44;Negro;Ropa interior;1299;15;7;2015;9:11;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Ropa interior;21;15;7;2015;10:45;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Ropa interior;21;15;7;2015;10:45;No
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Azul;Ropa interior;19;15;7;2015;14:52;Si
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Verde;Ropa interior;20;15;7;2015;14:54;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;40-42;Verde;Ropa interior;1299;15;7;2015;14:55;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Azul;Ropa interior;1299;15;7;2015;16:03;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Negro;Ropa interior;21;15;7;2015;19:03;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Ropa interior;20;15;7;2015;19:43;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;15;7;2015;20:13;Si
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Azul;Ropa interior;19;15;7;2015;20:52;No
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Verde;Ropa interior;21;15;7;2015;21:05;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Ropa interior;21;15;7;2015;22:01;No
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Ropa interior;21;15;7;2015;22:01;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Verde;Ropa interior;21;15;7;2015;10:00;Si
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Negro;Ropa interior;2499;15;7;2015;10:02;Si
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Azul;Ropa interior;20;15;7;2015;10:20;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Ropa interior;21;15;7;2015;10:52;Si
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Rosado;Ropa interior;20;15;7;2015;12:01;No
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Rosado;Ropa interior;20;15;7;2015;12:01;Si
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Azul;Ropa interior;19;15;7;2015;12:11;Si
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Verde;Ropa interior;19;15;7;2015;12:42;Si
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;2499;15;7;2015;12:42;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Negro;Ropa interior;1299;15;7;2015;13:18;Si
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;2499;15;7;2015;13:28;Si
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Rosado;Ropa interior;2499;15;7;2015;14:32;Si
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Azul;Ropa interior;20;15;7;2015;15:11;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Rosado;Ropa interior;1299;15;7;2015;15:21;Si
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Azul;Ropa interior;20;15;7;2015;15:47;Si
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Rosado;Ropa interior;19;15;7;2015;16:38;No
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Negro;Ropa interior;1299;15;7;2015;16:39;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;1299;15;7;2015;10:33;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Ropa interior;21;15;7;2015;11:09;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Negro;Ropa interior;20;15;7;2015;12:31;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Ropa interior;21;15;7;2015;13:03;Si
+Lima;Asics;Quick Light Cushion;Usinex;38-40;Verde;Ropa interior;19;15;7;2015;13:04;Si
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Negro;Ropa interior;20;15;7;2015;14:18;Si
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Verde;Ropa interior;19;15;7;2015;17:34;Si
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Verde;Ropa interior;19;15;7;2015;17:34;No
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Ropa interior;20;15;7;2015;17:55;Si
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;2499;15;7;2015;18:12;Si
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Azul;Ropa interior;19;15;7;2015;18:33;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Ropa interior;20;15;7;2015;19:00;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Azul;Ropa interior;21;15;7;2015;20:39;Si
+Lima;Asics;Quick Light Cushion;Usinex;44-46;Azul;Ropa interior;19;15;7;2015;23:28;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Negro;Ropa interior;21;16;7;2015;7:46;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;38-40;Verde;Ropa interior;20;16;7;2015;9:36;Si
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Negro;Ropa interior;20;16;7;2015;10:46;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;1299;16;7;2015;13:46;Si
+Lima;Nike;Hyper Elite Crew;Usinex;36-38;Rosado;Ropa interior;20;16;7;2015;14:19;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Negro;Ropa interior;21;16;7;2015;14:34;Si
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;2499;16;7;2015;16:07;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Rosado;Ropa interior;21;16;7;2015;16:35;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;1299;16;7;2015;16:58;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Azul;Ropa interior;21;16;7;2015;17:29;Si
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;2499;16;7;2015;18:10;Si
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Rosado;Ropa interior;20;16;7;2015;18:10;Si
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;2499;16;7;2015;16:07;No
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;2499;16;7;2015;18:38;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Verde;Ropa interior;21;16;7;2015;18:56;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Negro;Ropa interior;21;16;7;2015;20:32;Si
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Rosado;Ropa interior;19;16;7;2015;20:57;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Rosado;Ropa interior;20;16;7;2015;23:39;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Rosado;Ropa interior;21;16;7;2015;23:49;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Azul;Ropa interior;21;16;7;2015;9:52;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;44-46;Azul;Ropa interior;1299;16;7;2015;10:26;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Negro;Ropa interior;21;16;7;2015;11:15;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Azul;Ropa interior;21;16;7;2015;11:17;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;44-46;Verde;Ropa interior;1299;16;7;2015;11:45;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Azul;Ropa interior;20;16;7;2015;11:58;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;16;7;2015;12:04;Si
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Azul;Ropa interior;19;16;7;2015;13:05;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Verde;Ropa interior;21;16;7;2015;13:46;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;1299;16;7;2015;14:07;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;36-38;Negro;Ropa interior;20;16;7;2015;14:30;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Azul;Ropa interior;20;16;7;2015;15:00;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Rosado;Ropa interior;21;16;7;2015;15:29;Si
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Azul;Ropa interior;20;16;7;2015;15:32;Si
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Verde;Ropa interior;20;16;7;2015;15:42;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Negro;Ropa interior;1299;16;7;2015;15:44;Si
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Negro;Ropa interior;20;16;7;2015;15:45;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Rosado;Ropa interior;20;16;7;2015;15:45;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Ropa interior;21;16;7;2015;16:26;Si
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Azul;Ropa interior;20;16;7;2015;16:34;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;38-40;Verde;Ropa interior;20;16;7;2015;16:49;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Negro;Ropa interior;21;16;7;2015;16:52;Si
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Negro;Ropa interior;19;16;7;2015;16:54;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Ropa interior;21;16;7;2015;16:56;Si
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Rosado;Ropa interior;19;16;7;2015;16:56;Si
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Negro;Ropa interior;20;16;7;2015;17:42;Si
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Ropa interior;19;16;7;2015;8:57;Si
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Rosado;Ropa interior;20;16;7;2015;10:45;Si
+Lima;Asics;Quick Light Cushion;Usinex;38-40;Negro;Ropa interior;19;16;7;2015;10:53;Si
+Lima;Asics;Kayano Single Tab;Usinex;46-48;Negro;Ropa interior;2499;16;7;2015;11:24;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Ropa interior;20;16;7;2015;11:42;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Verde;Ropa interior;21;16;7;2015;12:31;Si
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Azul;Ropa interior;2499;16;7;2015;15:12;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Rosado;Ropa interior;1299;16;7;2015;15:20;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Ropa interior;20;16;7;2015;16:29;Si
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Azul;Ropa interior;2499;16;7;2015;16:55;Si
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Rosado;Ropa interior;20;16;7;2015;18:10;Si
+Lima;Asics;Kayano Single Tab;Usinex;38-40;Azul;Ropa interior;2499;16;7;2015;18:34;Si
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Azul;Ropa interior;20;16;7;2015;19:49;Si
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Negro;Ropa interior;19;16;7;2015;21:01;Si
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Azul;Ropa interior;20;16;7;2015;22:50;Si
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Ropa interior;19;17;7;2015;10:58;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;42-44;Rosado;Ropa interior;1299;17;7;2015;12:38;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Verde;Ropa interior;21;17;7;2015;13:59;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;36-38;Rosado;Ropa interior;20;17;7;2015;14:11;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Ropa interior;21;17;7;2015;14:28;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Verde;Ropa interior;21;17;7;2015;15:37;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Verde;Ropa interior;21;17;7;2015;18:31;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Verde;Ropa interior;21;17;7;2015;19:45;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Ropa interior;21;17;7;2015;19:53;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;1299;17;7;2015;21:21;Si
+Lima;Asics;Quick Light Cushion;Usinex;44-46;Rosado;Ropa interior;19;17;7;2015;21:43;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Rosado;Ropa interior;21;17;7;2015;23:15;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Ropa interior;21;17;7;2015;23:24;Si
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Azul;Ropa interior;19;17;7;2015;10:31;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Rosado;Ropa interior;21;17;7;2015;10:31;Si
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Rosado;Ropa interior;2499;17;7;2015;10:33;Si
+Lima;Asics;Quick Light Cushion;Usinex;44-46;Azul;Ropa interior;19;17;7;2015;10:41;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Verde;Ropa interior;21;17;7;2015;10:52;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Verde;Ropa interior;20;17;7;2015;11:56;Si
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Rosado;Ropa interior;2499;17;7;2015;12:04;Si
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;2499;17;7;2015;12:31;Si
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Negro;Ropa interior;19;17;7;2015;12:34;Si
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Ropa interior;19;17;7;2015;12:42;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Ropa interior;20;17;7;2015;13:12;Si
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Verde;Ropa interior;20;17;7;2015;13:15;Si
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Azul;Ropa interior;2499;17;7;2015;13:23;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Ropa interior;21;17;7;2015;13:49;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Azul;Ropa interior;1299;17;7;2015;13:52;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Azul;Ropa interior;21;17;7;2015;14:14;Si
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Verde;Ropa interior;19;17;7;2015;15:16;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Ropa interior;20;17;7;2015;15:36;Si
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Azul;Ropa interior;20;17;7;2015;15:54;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;1299;17;7;2015;16:05;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Ropa interior;20;17;7;2015;16:43;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Negro;Ropa interior;21;17;7;2015;16:57;Si
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Negro;Ropa interior;20;17;7;2015;16:57;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Verde;Ropa interior;20;17;7;2015;16:59;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Negro;Ropa interior;20;17;7;2015;11:08;Si
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Negro;Ropa interior;20;17;7;2015;11:51;Si
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;2499;17;7;2015;12:37;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Azul;Ropa interior;21;17;7;2015;14:44;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Negro;Ropa interior;21;17;7;2015;15:00;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Ropa interior;20;17;7;2015;15:01;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;38-40;Rosado;Ropa interior;20;17;7;2015;15:10;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Rosado;Ropa interior;21;17;7;2015;15:51;Si
+Lima;Nike;Hyper Elite Crew;Usinex;36-38;Negro;Ropa interior;20;17;7;2015;18:21;Si
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Rosado;Ropa interior;20;17;7;2015;19:52;Si
+Lima;Asics;Kayano Single Tab;Usinex;38-40;Verde;Ropa interior;2499;17;7;2015;20:19;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Ropa interior;20;17;7;2015;21:30;Si
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Rosado;Ropa interior;20;17;7;2015;23:13;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Azul;Ropa interior;20;18;7;2015;7:20;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Verde;Ropa interior;1299;18;7;2015;7:56;Si
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Rosado;Ropa interior;2499;18;7;2015;8:54;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Azul;Ropa interior;20;18;7;2015;8:55;Si
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Azul;Ropa interior;20;18;7;2015;9:02;Si
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;2499;18;7;2015;9:44;Si
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Azul;Ropa interior;2499;18;7;2015;12:10;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Verde;Ropa interior;21;18;7;2015;12:12;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;44-46;Rosado;Ropa interior;1299;18;7;2015;13:14;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;18;7;2015;13:53;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Verde;Ropa interior;20;18;7;2015;19:10;Si
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Rosado;Ropa interior;20;18;7;2015;21:10;Si
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Verde;Ropa interior;20;18;7;2015;21:34;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;42-44;Rosado;Ropa interior;1299;18;7;2015;21:56;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Ropa interior;21;18;7;2015;22:32;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Ropa interior;20;18;7;2015;23:13;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Ropa interior;20;18;7;2015;23:44;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Rosado;Ropa interior;20;18;7;2015;9:32;Si
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Verde;Ropa interior;20;18;7;2015;9:36;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Verde;Ropa interior;20;18;7;2015;9:54;Si
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;2499;18;7;2015;10:03;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Rosado;Ropa interior;21;18;7;2015;10:07;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;1299;18;7;2015;10:12;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Ropa interior;20;18;7;2015;10:23;Si
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Rosado;Ropa interior;2499;18;7;2015;10:26;Si
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Verde;Ropa interior;20;18;7;2015;11:01;Si
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Negro;Ropa interior;2499;18;7;2015;11:09;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;1299;18;7;2015;12:31;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;1299;18;7;2015;13:43;Si
+Lima;Asics;Quick Light Cushion;Usinex;38-40;Negro;Ropa interior;19;18;7;2015;13:46;Si
+Lima;Asics;Kayano Single Tab;Usinex;38-40;Azul;Ropa interior;2499;18;7;2015;14:32;Si
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Negro;Ropa interior;2499;18;7;2015;15:09;No
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;1299;18;7;2015;15:24;Si
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Azul;Ropa interior;2499;18;7;2015;16:52;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Verde;Ropa interior;20;19;7;2015;8:25;Si
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Negro;Ropa interior;19;19;7;2015;9:11;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Ropa interior;21;19;7;2015;9:17;No
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Ropa interior;20;19;7;2015;12:34;Si
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;2499;19;7;2015;13:04;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Ropa interior;20;19;7;2015;14:52;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Azul;Ropa interior;20;19;7;2015;17:08;Si
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;2499;19;7;2015;17:09;Si
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Rosado;Ropa interior;21;19;7;2015;17:11;Si
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Verde;Ropa interior;19;19;7;2015;20:02;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Negro;Ropa interior;1299;19;7;2015;21:54;Si
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Negro;Ropa interior;2499;19;7;2015;22:29;Si
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Negro;Ropa interior;20;19;7;2015;23:42;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Rosado;Ropa interior;1299;19;7;2015;9:57;Si
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Verde;Ropa interior;1299;19;7;2015;10:00;Si
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Rosado;Ropa interior;2499;19;7;2015;10:02;Si
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;2499;19;7;2015;10:28;Si
+Provincias;Asics;Quick Light Cushion;Usinex;38-40;Azul;Ropa interior;19;19;7;2015;13:56;Si
+Provincias;Asics;Quick Light Cushion;Usinex;36-38;Azul;Ropa interior;19;19;7;2015;13:56;Si
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Negro;Ropa interior;2499;19;7;2015;14:20;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;38-40;Negro;Ropa interior;1299;19;7;2015;14:48;Si
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;2499;19;7;2015;17:12;Si
+Provincias;Nike;Hyper Elite Crew;Usinex;36-38;Verde;Ropa interior;20;20;7;2015;7:46;Si
+Provincias;Asics;Quick Light Cushion;Usinex;42-44;Negro;Ropa interior;19;20;7;2015;8:34;Si
+Provincias;Asics;Kayano Single Tab;Usinex;38-40;Azul;Ropa interior;2499;20;7;2015;8:49;Si
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Azul;Ropa interior;21;20;7;2015;11:15;Si
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Azul;Ropa interior;19;20;7;2015;13:17;Si
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Ropa interior;21;20;7;2015;14:22;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;1299;20;7;2015;14:25;Si
+Provincias;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Ropa interior;19;20;7;2015;16:22;Si
+Provincias;Asics;Kayano Single Tab;Usinex;38-40;Azul;Ropa interior;2499;20;7;2015;16:35;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;44-46;Verde;Ropa interior;1299;20;7;2015;17:15;Si
+Provincias;Asics;Quick Light Cushion;Usinex;44-46;Azul;Ropa interior;19;20;7;2015;17:51;Si
+Provincias;Asics;Quick Light Cushion;Usinex;38-40;Verde;Ropa interior;19;20;7;2015;18:33;Si
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Negro;Ropa interior;2499;20;7;2015;22:30;Si
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Negro;Ropa interior;2499;20;7;2015;10:00;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;40-42;Azul;Ropa interior;1299;20;7;2015;12:39;Si
+Provincias;Asics;Kayano Single Tab;Usinex;46-48;Negro;Ropa interior;2499;20;7;2015;15:39;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;44-46;Rosado;Ropa interior;1299;20;7;2015;15:57;Si
+Provincias;Asics;Quick Light Cushion;Usinex;46-48;Verde;Ropa interior;19;21;7;2015;7:46;Si
+Provincias;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Ropa interior;20;21;7;2015;8:16;Si
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Negro;Ropa interior;21;21;7;2015;9:31;Si
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Ropa interior;21;21;7;2015;10:39;Si
+Provincias;Asics;Kayano Single Tab;Usinex;46-48;Azul;Ropa interior;2499;21;7;2015;11:11;No
+Provincias;Nike;Dri-Fit No-Show;Usinex;44-46;Negro;Ropa interior;20;21;7;2015;11:35;Si
+Provincias;Nike;Dri-Fit No-Show;Usinex;44-46;Verde;Ropa interior;20;21;7;2015;14:32;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;36-38;Rosado;Ropa interior;1299;21;7;2015;16:04;Si
+Provincias;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;21;7;2015;17:49;Si
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Verde;Ropa interior;21;21;7;2015;21:10;Si
+Provincias;Asics;Kayano Single Tab;Usinex;40-42;Azul;Ropa interior;2499;21;7;2015;21:57;Si
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Verde;Ropa interior;21;21;7;2015;23:18;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;40-42;Verde;Ropa interior;1299;21;7;2015;23:21;Si
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Rosado;Ropa interior;19;21;7;2015;9:42;Si
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Rosado;Ropa interior;19;21;7;2015;11:04;Si
+Provincias;Asics;Kayano Single Tab;Usinex;40-42;Negro;Ropa interior;2499;21;7;2015;11:24;Si
+Provincias;Asics;Quick Light Cushion;Usinex;46-48;Negro;Ropa interior;19;21;7;2015;13:21;Si
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Negro;Ropa interior;19;21;7;2015;14:25;Si
+Provincias;Asics;Quick Light Cushion;Usinex;42-44;Negro;Ropa interior;19;21;7;2015;14:30;Si
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Rosado;Ropa interior;2499;21;7;2015;14:56;No
+Provincias;Asics;Hera Deux Single Tab;Femenino;40-42;Azul;Ropa interior;1299;21;7;2015;14:56;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Verde;Ropa interior;1299;21;7;2015;14:56;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Negro;Ropa interior;1299;21;7;2015;15:32;Si
+Provincias;Asics;Quick Light Cushion;Usinex;38-40;Azul;Ropa interior;19;21;7;2015;16:43;Si
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Azul;Ropa interior;21;22;7;2015;8:36;Si
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;2499;22;7;2015;11:54;Si
+Provincias;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;22;7;2015;12:02;Si
+Provincias;Nike;Hyper Elite Crew;Usinex;40-42;Verde;Ropa interior;20;22;7;2015;12:57;Si
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Ropa interior;21;22;7;2015;13:22;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Rosado;Ropa interior;1299;22;7;2015;15:24;Si
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Negro;Ropa interior;1299;22;7;2015;16:52;Si
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Negro;Ropa interior;2499;22;7;2015;16:58;Si
+Provincias;Nike;Dri-Fit No-Show;Usinex;38-40;Rosado;Ropa interior;20;22;7;2015;17:41;No
+Provincias;Asics;Kayano Single Tab;Usinex;40-42;Verde;Ropa interior;2499;22;7;2015;17:49;Si
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Negro;Ropa interior;2499;22;7;2015;19:35;Si
+Provincias;Asics;Quick Light Cushion;Usinex;46-48;Verde;Ropa interior;19;22;7;2015;19:46;Si
+Provincias;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;2499;22;7;2015;20:44;Si
+Provincias;Asics;Kayano Single Tab;Usinex;38-40;Negro;Ropa interior;2499;22;7;2015;21:27;Si
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Verde;Ropa interior;21;22;7;2015;22:22;Si
+Provincias;Asics;Kayano Single Tab;Usinex;46-48;Rosado;Ropa interior;2499;22;7;2015;11:02;Si
+Provincias;Asics;Quick Light Cushion;Usinex;36-38;Verde;Ropa interior;19;22;7;2015;12:49;Si
