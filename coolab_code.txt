@@ -1,0 +1,3 @@
+import pandas as pd
+url = "https://raw.githubusercontent.com/JohanRodriguez23/Mineria-de-Datos/main/ETL-ECommerce.csv"
+df = pd.read_csv(url, encoding= 'unicode_escape')
