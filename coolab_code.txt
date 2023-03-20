@@ -1,3 +1,25 @@
+# llamar base de datos
 import pandas as pd
 url = "https://raw.githubusercontent.com/JohanRodriguez23/Mineria-de-Datos/main/ETL-ECommerce.csv"
 df = pd.read_csv(url, encoding= 'unicode_escape')
+
+
+
+#Eliminar columnas
+df.drop (columns = ['FechaDIAOrden', 'FechaDIAVenta', 'Rama'] inplace=True)
+
+
+#Renombrar columnas
+df.rename({'FechaMESOrden':'FechaDIAOrden'},axis=1, inplace=True)
+df.rename({'FechaANOOrden':'FechaMESOrden'},axis=1, inplace=True)
+df.rename({'FechaMESVenta':'FechaDIAVenta'},axis=1, inplace=True)
+df.rename({'FechaANOVenta':'FechaMESVenta'},axis=1, inplace=True)
+
+
+
+#Validar daton Nan
+df[df.isna().any(1)]
+
+
+#Validar datos vacion
+df.isna().sum()
